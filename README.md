@@ -1,7 +1,7 @@
 # Olá, sou Arthur Herbster! 👋
 🚀 Estudante de Desenvolvimento Back End, apaixonado por transformar códigos em soluções incríveis!
 # Sobre mim:
-✨ Tenho 15 anos e sou um eterno entusiasta da tecnologia, atualmente cursando o curso Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+✨ Tenho 16 anos e sou um eterno entusiasta da tecnologia, atualmente cursando o curso Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 
 💻 Minha jornada de desenvolvimento é uma empolgante trajetória, dedicada ao back-end para construir soluções eficientes e impactantes. Gosto de encarar desafios de programação e estou constantemente em busca de aprendizado e evolução.
 ### 🖥️ Tech Stack:
