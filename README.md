@@ -1,5 +1,5 @@
 # Olá, sou Arthur Herbster! 👋
-Olá! Me chamo Arthur Herbster, tenho 16 anos e atualmente estou cursando o Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará(IFCE).
+Olá! Me chamo Arthur Herbster, tenho 16 anos e atualmente estou cursando o Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 Sou estudante de desenvolvimento web e focado na área de Back-End. Sempre buscando aprender e evoluir na programação!
 
 ## 🖥️ Tech Stack:
