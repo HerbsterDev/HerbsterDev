@@ -1,5 +1,9 @@
-# 🖥️ Tech Stack:
-![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=yellow) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+# Olá, sou Arthur Herbster! 👋
+Olá! Me chamo Arthur Herbster, tenho 16 anos e atualmente estou cursando o Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará(IFCE).
+Sou estudante de desenvolvimento web e focado na área de Back-End. Sempre buscando aprender e evoluir na programação!
+
+## 🖥️ Tech Stack:
+![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=yellow)  ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
