@@ -3,7 +3,7 @@ Olá! Me chamo Arthur Herbster, tenho 16 anos e atualmente estou cursando o Téc
 Sou estudante de desenvolvimento web e focado na área de Back-End. Sempre buscando aprender e evoluir na programação!
 
 ## 🖥️ Tech Stack:
-![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=yellow)  ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=yellow)  ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
