@@ -5,6 +5,7 @@ Sou estudante de desenvolvimento web e focado na área de Back-End. Sempre busca
  💻 Estou iniciando minha jornada no desenvolvimento back-end, explorando aos poucos esse universo cheio de lógica e possibilidades. Gosto de entender como tudo funciona por trás das aplicações e estou sempre buscando aprender mais e evoluir passo a passo.
 
 ## 🖥️ Tech Stack:
+### Back-end:
 ![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=yellow)  ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
@@ -19,6 +20,13 @@ Sou estudante de desenvolvimento web e focado na área de Back-End. Sempre busca
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=oD1117)
 ![Windows](https://img.shields.io/badge/-Windows-35495E?style=for-the-badge&logo=windows&labelColor=2CA5E0)
 
+ ## Fora da Matrix da programação, você me encontra:
+
+🎬 Maratonando filmes e sagas de ficção científica e fantasia como Star Wars, Senhor dos Anéis e Game of Thrones, explorando galáxias distantes, mundos épicos e batalhas lendárias.
+
+👨‍👩‍👧‍👦 Passando tempo de qualidade com a família, compartilhando risadas e criando memórias juntos.
+
+🏋‍♂ Fazendo academia, superando meus limites e cuidando do corpo como cuido dos códigos.
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&columm=3)
