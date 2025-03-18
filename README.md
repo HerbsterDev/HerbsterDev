@@ -23,8 +23,8 @@ Sou estudante de desenvolvimento web e focado na área de Back-End. Sempre busca
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&columm=3)
 
-+<h2>Conecte-se comigo:</h2>
-+<p>
+### Conecte-se comigo:
+­<p>
  <a href= "https://www.linkedin.com/in/arthur-herbster-undefined-97ab49301/">
   ![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
    </a>
