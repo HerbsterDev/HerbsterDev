@@ -28,7 +28,7 @@ Sou estudante de desenvolvimento web e focado na área de Back-End. Sempre busca
 
 🏋‍♂ Fazendo academia, superando meus limites e cuidando do corpo como cuido dos códigos.
 
-## 🏆 Troféus do GitHub:
+## Troféus do GitHub:
 ![](https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&columm=3)
 
 ## Conecte-se comigo:
