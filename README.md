@@ -1,9 +1,8 @@
 # Olá, sou Arthur Herbster! 👋
- ✨ Olá! Me chamo Arthur Herbster, tenho 16 anos e atualmente estou cursando o Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
-Sou estudante de desenvolvimento web e focado na área de Back-End. Sempre buscando aprender e evoluir na programação.
+✨ Olá! Me chamo Arthur Herbster, tenho 16 anos e atualmente estou cursando o Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
+Sou estudante de ciência de dados e inteligência artificial, sempre buscando aprender e evoluir nesse campo promissor da tecnologia.
 
- 💻 Estou iniciando minha jornada no desenvolvimento back-end, explorando aos poucos esse universo cheio de lógica e possibilidades. Gosto de entender como tudo funciona por trás das aplicações e estou sempre buscando aprender mais e evoluir passo a passo.
-
+💻 Estou iniciando minha jornada na área de ciência de dados e IA, explorando aos poucos esse universo cheio de estatísticas, algoritmos e possibilidades. Gosto de entender como tudo funciona por trás das análises e modelos inteligentes, e estou sempre em busca de novos aprendizados para evoluir passo a passo.
 ## Minhas Stacks:
 ![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=yellow)
 
