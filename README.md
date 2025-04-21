@@ -12,9 +12,9 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 
 
 ## 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=DevHerbster&theme=blueberry&hideborder=false&include_all_comits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevHerbster&theme=blueberry&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=DevHerbster&theme=dark&hideborder=false&include_all_comits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevHerbster&theme=dark&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
  ## Fora da Matrix da programação, você me encontra:
 
