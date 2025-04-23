@@ -8,8 +8,10 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 ![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+<h2>Estatísticas do GitHub:</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&layout=compact" alt="Top Languages">
+
 
 ## Ferramentas e Práticas:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -26,10 +28,13 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 
 ## Troféus do GitHub:
 
-## Conecte-se comigo:
-­<a href= "https://www.linkedin.com/in/arthur-herbster-undefined-97ab49301/">
-  ![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-   </a>
+
+<h2>Conecte-se comigo:</h2>
+<p>
+  <a href="https://www.linkedin.com/in/arthur-herbster-undefined-97ab49301/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 
 
