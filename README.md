@@ -27,6 +27,7 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 🏋‍♂ Fazendo academia, superando meus limites e cuidando do corpo como cuido dos códigos.
 
 ## Troféus do GitHub:
+![](https://github-profile-trophy.vercel.app/?username=DevHerbster&&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6)
 
 
 <h2>Conecte-se comigo:</h2>
