@@ -30,7 +30,21 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 🏋‍♂ Fazendo academia, superando meus limites e cuidando do corpo como cuido dos códigos.
 
 ## 🏆 Troféus do GitHub
-![](https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=DevHerbster&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+    </td>
+  </tr>
+</table>
 
 ## Conecte-se comigo
 ­<a href= "https://www.linkedin.com/in/arthur-herbster-undefined-97ab49301/">
