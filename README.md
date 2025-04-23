@@ -31,12 +31,17 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 
 
 <h2>Conecte-se comigo:</h2>
+
 <p>
-  <a href="https://www.linkedin.com/in/arthur-herbster-undefined-97ab49301/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://www.linkedin.com/in/arthur-herbster-undefined-97-ab49301/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.instagram.com/arthrrzz__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <a href="mailto:arthur20092020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
 </p>
-
-
-
-
