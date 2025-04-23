@@ -3,23 +3,18 @@
 Sou estudante de ciência de dados e inteligência artificial, sempre buscando aprender e evoluir nesse campo promissor da tecnologia.
 
 💻 Estou iniciando minha jornada na área de ciência de dados e IA, explorando aos poucos esse universo cheio de estatísticas, algoritmos e possibilidades. Gosto de entender como tudo funciona por trás das análises e modelos inteligentes, e estou sempre em busca de novos aprendizados para evoluir passo a passo.
-## 🚀 Tecnologias & Ferramentas
+## Minhas Stacks:
+### Ciência de Dados:
+![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+## Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+
+## Ferramentas e Práticas:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-### Linguagens Utilizadas
-![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=white)
-
-## 📒 Bibliotecas & Frameworks
-![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-## 📊 Estatísticas
-![](https://github-readme-stats.vercel.app/api?username=DevHerbster&theme=dark&hideborder=false&include_all_comits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevHerbster&theme=dark&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
 
  ## Fora da Matrix da programação, você me encontra:
 
@@ -29,24 +24,9 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 
 🏋‍♂ Fazendo academia, superando meus limites e cuidando do corpo como cuido dos códigos.
 
-## 🏆 Troféus do GitHub
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DevHerbster&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-    </td>
-  </tr>
-</table>
+## Troféus do GitHub:
 
-## Conecte-se comigo
+## Conecte-se comigo:
 ­<a href= "https://www.linkedin.com/in/arthur-herbster-undefined-97ab49301/">
   ![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
    </a>
