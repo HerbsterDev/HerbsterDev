@@ -8,9 +8,8 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 ![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-<h2>Estatísticas do GitHub:</h2>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&layout=compact" alt="Top Languages">
+## Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&theme=dark&hide_border=false&layout=compact)
 
 
 ## Ferramentas e Práticas:
