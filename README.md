@@ -5,7 +5,7 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 💻 Estou iniciando minha jornada na área de ciência de dados e IA, explorando aos poucos esse universo cheio de estatísticas, algoritmos e possibilidades. Gosto de entender como tudo funciona por trás das análises e modelos inteligentes, e estou sempre em busca de novos aprendizados para evoluir passo a passo.
 ## Minhas Stacks:
 ### Ciência de Dados:
-![Python](https://img.shields.io/badge/python-3676A0?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-00004d?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## Estatísticas do GitHub:
@@ -13,7 +13,7 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 
 
 ## Ferramentas e Práticas:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2f2f2f?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
