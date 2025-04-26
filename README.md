@@ -32,7 +32,7 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 <h2>Conecte-se comigo:</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/arthur-herbster-undefined-97-ab49301/" target="_blank">
+  <a href="https://www.linkedin.com/in/arthur-herbster-undefined-97ab49301/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
