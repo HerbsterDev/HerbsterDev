@@ -18,6 +18,7 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9A825)
 ![Windows](https://img.shields.io/badge/Windows-212121?style=for-the-badge&logo=windows&logoColor=white)
 
+
  ## Fora da Matrix da programação, você me encontra:
 
 🎬 Maratonando filmes e sagas de ficção científica e fantasia como Star Wars, Senhor dos Anéis e Game of Thrones, explorando galáxias distantes, mundos épicos e batalhas lendárias.
@@ -27,7 +28,7 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 🏋‍♂ Fazendo academia, superando meus limites e cuidando do corpo como cuido dos códigos.
 
 ## Troféus do GitHub:
-![](https://github-profile-trophy.vercel.app/?username=DevHerbster&&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6)
+![Troféus](https://github-profile-trophy.vercel.app/?username=DevHerbster&&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6)
 
 
 <h2>Conecte-se comigo:</h2>
