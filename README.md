@@ -15,7 +15,7 @@ Sou estudante de ciência de dados e inteligência artificial, sempre buscando a
 ## Ferramentas e Práticas:
 ![Git](https://img.shields.io/badge/Git-2f2f2f?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9A825)
 
  ## Fora da Matrix da programação, você me encontra:
 
