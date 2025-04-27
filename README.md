@@ -19,15 +19,6 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia!
 
 	
 
-## 🏆 Troféus do GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
-
-
-
 ## 📊 Minhas Estatísticas
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&theme=dark&hide_border=false&layout=compact)
@@ -42,6 +33,12 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia!
 🏋‍♂ Frequente da academia, buscando evolução contínua no corpo e na mente.
 
 👨‍👩‍👧‍👦 Valorizo o tempo em família, que sempre é minha fonte de força e inspiração.
+
+## 🏆 Troféus do GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 
 ## 🌐 Conecte-se comigo
