@@ -35,10 +35,7 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia!
 👨‍👩‍👧‍👦 Valorizo o tempo em família, que sempre é minha fonte de força e inspiração.
 
 ## 🏆 Troféus do GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&no-bg=true&margin-w=15&margin-h=15" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=DevHerbster&theme=radical&no-bg=true&margin-w=10&margin-h=10&row=1&column=6)" 
 
 
 ## 🌐 Conecte-se comigo
