@@ -21,9 +21,7 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia!
 
 ## 📊 Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbster&theme=dark&hide_border=false&layout=compact)
 
 
 
