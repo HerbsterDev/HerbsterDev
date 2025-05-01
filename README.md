@@ -16,6 +16,7 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9A825)
 ![Windows](https://img.shields.io/badge/Windows-212121?style=for-the-badge&logo=windows&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-4B4B4B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
 
 	
 
