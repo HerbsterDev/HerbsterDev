@@ -8,9 +8,9 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia!
 
 ### Programação e Frameworks:
 ![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
-![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
+![Numpy](https://img.shields.io/badge/numpy-222222?style=for-the-badge&logo=numpy&logoColor=4F9EC4)
 ### Banco de Dados:
+![MySQL](https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=MySQL&logoColor=3399CC)
 
 
 ### Ferramentas e Plataformas:
