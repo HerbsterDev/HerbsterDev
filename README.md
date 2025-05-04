@@ -7,7 +7,7 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia!
 ## 🚀 Minhas Stacks
 
 ### Programação e Frameworks:
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
 ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Banco de Dados:
