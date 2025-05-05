@@ -1,7 +1,7 @@
 # Olá, sou Arthur Herbster! 👋
 Tenho 16 anos e sou estudante do curso Técnico Integrado em Informática no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).
 Sou apaixonado por tecnologia, gosto de programar, escrever códigos e explorar o universo da informática.
-Sempre buscando evoluir e aprender um pouco mais a cada dia!
+Sempre buscando evoluir e aprender um pouco mais a cada dia! Atualmente, estou focado na área de **Ciência de Dados**, onde busco unir programação, estatística e análise para transformar dados em conhecimento.
 
 
 ## 🚀 Minhas Stacks
