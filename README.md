@@ -11,6 +11,8 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia! Atualmente, estou f
 ![Numpy](https://img.shields.io/badge/numpy-222222?style=for-the-badge&logo=numpy&logoColor=4F9EC4)
 ### Banco de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-222222?style=for-the-badge&logo=MySQL&logoColor=3399CC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
+
 
 
 ### Ferramentas e Plataformas:
