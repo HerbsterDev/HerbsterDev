@@ -12,7 +12,7 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia! Atualmente, estou f
 ![Pandas](https://img.shields.io/badge/Pandas-222222?style=for-the-badge&logo=Pandas&logoColor=1DA1F2)
 ### Banco de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222222?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
