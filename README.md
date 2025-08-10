@@ -5,7 +5,10 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia! Atualmente, estou f
 
 
 ## Minhas Stacks
-
+### Desenvolvimento Web:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ### Ciência de Dados:
 ![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Numpy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=0d6efd)
