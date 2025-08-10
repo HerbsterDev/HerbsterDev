@@ -9,7 +9,7 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia! Atualmente, estou f
 ### Ciência de Dados:
 ![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Numpy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy&logoColor=0d6efd)
-![Pandas](https://img.shields.io/badge/Pandas-222222?style=for-the-badge&logo=Pandas&logoColor=1DA1F2)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas&logoColor=150458)
 ### Banco de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
