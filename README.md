@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia, gosto de programar, escrever códigos e explorar 
 Sempre buscando evoluir e aprender um pouco mais a cada dia! Atualmente, estou focado na área de **Ciência de Dados**, onde busco unir programação, estatística e análise para transformar dados em conhecimento.
 
 
-## 🚀 Minhas Stacks
+## Minhas Stacks
 
 ### Ciência de Dados:
 ![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -14,23 +14,17 @@ Sempre buscando evoluir e aprender um pouco mais a cada dia! Atualmente, estou f
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## Estatísticas do GitHub:
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerbsterDev&theme=white_border=false&layout=compact)
 
-### Ferramentas e Plataformas:
+### Ferramentas e Práticas:
 ![Git](https://img.shields.io/badge/Git-2f2f2f?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=F9A825)
 ![Windows](https://img.shields.io/badge/Windows-212121?style=for-the-badge&logo=windows&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-4B4B4B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
 ![Eclipse](https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=white)
-
-	
-
-## 📊 Minhas Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HerbsterDev&theme=dark&hide_border=false&layout=compact)
-
-
 
 ## 🎯 Sobre mim
 🎬 Apaixonado por filmes e séries de ficção científica e fantasia como Star Wars, Senhor dos Anéis e Game of Thrones.
