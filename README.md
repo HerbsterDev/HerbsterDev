@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
 
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=700&color=88cdf6&width=1000&lines=Olá,+sou+Arthur+Herbster!👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=700&color=88cdf6&width=1000&lines=Olá,+sou+Arthur+Herbster!🏆)](https://git.io/typing-svg)
 
 ---
 
@@ -31,6 +31,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E1E2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0A0A2A?style=for-the-badge&logo=windows&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-3B3B3B?style=for-the-badge&logo=google-colab&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-1A1A2B?style=for-the-badge&logo=eclipse&logoColor=white)
 
 
 ---
