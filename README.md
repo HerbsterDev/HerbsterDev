@@ -1,6 +1,7 @@
 
 <!-- Cabeçalho com Onda (Verde Suave Dracula) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
+
 
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=700&color=88cdf6&width=1000&lines=Olá,+sou+Arthur+Herbster!🏆)](https://git.io/typing-svg)
@@ -41,23 +42,25 @@
 <table align="center">
   <tr>
     <td align="center" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbsterDev&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
-    </td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbsterDev&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+
+   </td>
     <td align="center" style="background-color: transparent;">
-      <img src="https://github-profile-trophy.vercel.app/?username=HerbsterDev&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
-    </td>
+      <img src="https://github-profile-trophy.vercel.app/?username=HerbsterDev&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
+
+
+
   </tr>
   <tr>
     <td align="center" colspan="2" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HerbsterDev&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HerbsterDev&show_icons=true&theme=dark" alt="Estatísticas do GitHub" /
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
 
-<!-- Rodapé com Onda (Verde
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
+
 
 
