@@ -24,16 +24,20 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
-
+![Java](https://img.shields.io/badge/Java-2C2C54?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0B3D91?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1B1B3A?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1C1C2A?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2E1F47?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-16324F?style=for-the-badge&logo=numpy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2C1A2F?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E1E2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4B1E2F?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0A0A2A?style=for-the-badge&logo=windows&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-3B3B3B?style=for-the-badge&logo=google-colab&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E1E2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-2F2F2F?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-1A1A2B?style=for-the-badge&logo=eclipse&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B263B?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1C2A3A?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 
 ---
