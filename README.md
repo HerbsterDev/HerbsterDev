@@ -71,21 +71,12 @@
 </table>
 
 
-<
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
 
 
   
 
-
-
-<div align="center">
-  
-  ## 🏆 Troféus
-
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HerbsterDev&theme=darkhub&no-bg=true&row=2&column=3" alt="Troféus"/>
 
 
 
