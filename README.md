@@ -52,24 +52,43 @@
   <tr>
     <td align="center" style="background-color: transparent;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbsterDev&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
-
-   </td>
+    </td>
     <td align="center" style="background-color: transparent;">
-      <img src="https://github-profile-trophy.vercel.app/?username=HerbsterDev&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
-
+      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HerbsterDev&theme=darkhub&no-bg=true&row=2&column=3" alt="Troféus"/>
 
 
   </tr>
   <tr>
     <td align="center" colspan="2" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HerbsterDev&show_icons=true&theme=dark" alt="Estatísticas do GitHub" /
+      <img src="https://github-readme-stats.vercel.app/api?username=HerbsterDev&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="background-color: transparent;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HerbsterDev&custom_title=Minha%20Atividade%20GitHub&theme=high-contrast&area=true&hide_border=false" width="600"/>
     </td>
   </tr>
 </table>
 
+
+<
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
 
 
+  
 
 
+
+<div align="center">
+  
+  ## 🏆 Troféus
+
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HerbsterDev&theme=darkhub&no-bg=true&row=2&column=3" alt="Troféus"/>
+
+
+
+
+  
 
