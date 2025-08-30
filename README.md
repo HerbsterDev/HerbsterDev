@@ -13,14 +13,14 @@
 
 <span style="font-family: 'Courier New', monospace">
   
-- 🎓 Estudante de Ciência de Dados em formação.  
-- 🧠 Explorando bibliotecas essenciais como NumPy e Pandas para análise e manipulação de dados.  
-- 🔎 Aprendendo estatística aplicada e visualização de dados.   
-- 🚀 Motivado a transformar dados em insights valiosos.
-- 🧩 Entusiasta de resolução de problemas lógicos e matemáticos.
-- 🎬 Apaixonado por filmes de ficção científica e suspense.
+- 🎓 Entusiasta de Ciência de Dados
+- 🧠 Explorando bibliotecas essenciais como NumPy e Pandas para análise e manipulação de dados.
+- 🔎 Aprendendo estatística aplicada e visualização de dados.
+- 🚀 Motivado a aprender e evoluir constantemente.
+- 🧩 Apaixonado por desafios lógicos e matemáticos, fã de Rubik’s Cube e Xadrez.
+- 🎬 Apaixonado por filmes de ficção científica e suspense, especialmente Star Wars e O Senhor dos Anéis.
 
-</span>
+
 
 ---
 
