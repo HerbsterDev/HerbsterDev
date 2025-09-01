@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/Git-4B1E2F?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0A0A2A?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E1E2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-2F2F2F?style=for-the-badge&logo=google-colab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0D0D0D?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-1A1A2B?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B263B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1C2A3A?style=for-the-badge&logo=mysql&logoColor=white)
