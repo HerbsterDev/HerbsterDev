@@ -18,7 +18,6 @@
 - 🧩 Apaixonado por desafios lógicos e matemáticos, fã de Rubik’s Cube e Xadrez.
 - 🎬 Apaixonado por filmes de ficção científica e suspense, especialmente Star Wars e O Senhor dos Anéis.
 
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas:
