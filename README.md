@@ -36,6 +36,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-1A1A2B?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B263B?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1C2A3A?style=for-the-badge&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-1C1C2E?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 
 ---
