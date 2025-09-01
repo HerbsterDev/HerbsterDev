@@ -29,7 +29,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2E1F47?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-16324F?style=for-the-badge&logo=numpy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4B1E2F?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1A1A2B?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0A0A2A?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E1E2F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-0D0D0D?style=for-the-badge&logo=google-colab&logoColor=white)
