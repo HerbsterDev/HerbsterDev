@@ -37,7 +37,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-1C2A3A?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-1C1C2E?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-
 ---
 
 ### 📈 Estatísticas do GitHub:
