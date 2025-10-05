@@ -44,6 +44,7 @@
 ### 📈 Estatísticas do GitHub:
 
 
+
 <table align="center">
   <tr>
     <td align="center" style="background-color: transparent;">
