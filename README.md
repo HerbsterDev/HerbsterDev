@@ -12,7 +12,6 @@
 
 <span style="font-family: 'Courier New', monospace">
   
-
 - 🎓 Entusiasta de Ciência de Dados
 - 🧠 Explorando bibliotecas essenciais como NumPy e Pandas para análise e manipulação de dados.
 - 🔎 Aprendendo estatística aplicada e visualização de dados.
