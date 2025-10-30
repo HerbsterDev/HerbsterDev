@@ -67,3 +67,4 @@
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
+
