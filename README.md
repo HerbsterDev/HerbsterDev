@@ -13,6 +13,7 @@
 
 ### 🤖 Sobre Mim:
 
+
 <span style="font-family: 'Courier New', monospace">
   
 - 🎓 Entusiasta de Ciência de Dados
