@@ -49,7 +49,7 @@
 <table align="center">
   <tr>
     <td align="center" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbsterDev&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbsterDev&layout=compact&title_color=007bff&text_color=ffffff&bg_color=0d1117&border_color=007bff" alt="Linguagens mais usadas"/>
     </td>
     <td align="center" style="background-color: transparent;">
       <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HerbsterDev&theme=darkhub&no-bg=true&row=2&column=3" alt="Troféus"/>
@@ -58,12 +58,12 @@
   </tr>
   <tr>
     <td align="center" colspan="2" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HerbsterDev&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=HerbsterDev&show_icons=true&title_color=007bff&text_color=ffffff&icon_color=007bff&bg_color=0d1117&border_color=007bff" alt="Estatísticas do GitHub"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" style="background-color: transparent;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HerbsterDev&custom_title=Minha%20Atividade%20GitHub&theme=high-contrast&area=true&hide_border=false" width="600"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HerbsterDev&bg_color=0d1117&color=ffffff&line=007bff&point=007bff&area_color=007bff&title_color=007bff&radius=10&hide_border=false" width="600"/>
     </td>
   </tr>
 </table>
