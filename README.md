@@ -20,6 +20,7 @@
 
 ---
 
+
 ### 🛠️ Tecnologias e Ferramentas:
 ![C++](https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=white)
