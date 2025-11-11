@@ -44,6 +44,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-0A192F?style=for-the-badge&logo=dbeaver&logoColor=white)
 
+
 ---
 
 
