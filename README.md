@@ -10,14 +10,11 @@
 
 <span style="font-family: 'Courier New', monospace">
   
-- 🎓 Entusiasta de Ciência de Dados
-- 🧠 Explorando bibliotecas essenciais como NumPy e Pandas para análise e manipulação de dados.
-- 🔎 Aprendendo estatística aplicada e visualização de dados.
-- 🚀 Motivado a aprender e evoluir constantemente.
-- 🧩 Apaixonado por desafios lógicos e matemáticos, fã de Rubik’s Cube e Xadrez.
-- 🎬 Apaixonado por filmes de ficção científica e suspense, especialmente Star Wars e O Senhor dos Anéis.
-
-
+- 📊 Aprofundando conhecimentos em **Python** e manipulação de dados com **Pandas** e **NumPy**.
+- ⚛️ Entusiasta de **Física Quântica e Nuclear** fascinado por álgebra linear, mecanismos de tunelamento quântico e estimulações científicas.
+- 📈 Praticando **estatística descritiva** e **visualização de dados** para extrair insights de sistemas complexos.
+- 🧩 Apaixonado por raciocínio lógico e análise de cenários (Xadrez & Cubo Mágico).
+- 🎯 Próximo passo: **Machine Learning** (Scikit-Learn) e introdução a **Quantum Computing** (Qiskit)..
 ---
 
 
@@ -27,6 +24,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0A192F?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0A192F?style=for-the-badge&logo=windows&logoColor=white)
@@ -45,19 +44,14 @@
 
 
 <table align="center">
-  <tr>
-    <td align="center" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbsterDev&layout=compact&title_color=007bff&text_color=ffffff&bg_color=0d1117&border_color=007bff" alt="Linguagens mais usadas"/>
-    </td>
+  
+ </td>
     <td align="center" style="background-color: transparent;">
       <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HerbsterDev&theme=darkhub&no-bg=true&row=2&column=3" alt="Troféus"/>
-
+       </td>
 
   </tr>
-  <tr>
-    <td align="center" colspan="2" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HerbsterDev&show_icons=true&title_color=007bff&text_color=ffffff&icon_color=007bff&bg_color=0d1117&border_color=007bff" alt="Estatísticas do GitHub"/>
-    </td>
+  
   </tr>
   <tr>
     <td align="center" colspan="2" style="background-color: transparent;">
