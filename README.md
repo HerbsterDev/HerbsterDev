@@ -9,6 +9,7 @@
 
 ### 🤖 Sobre Mim:
 
+
 <span style="font-family: 'Courier New', monospace">
   
 - 📊 Aprofundando conhecimentos em **Python** e manipulação de dados com **Pandas** e **NumPy**.
