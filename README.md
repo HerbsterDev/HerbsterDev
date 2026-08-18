@@ -49,6 +49,7 @@
 
 <table align="center">
   
+
  </td>
     <td align="center" style="background-color: transparent;">
       <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HerbsterDev&theme=darkhub&no-bg=true&row=2&column=3" alt="Troféus"/>
