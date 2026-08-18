@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=88cdf6&width=1000&lines=Olá,+sou+Arthur+Herbster!🏆;Desenvolvedor+de+Software!💻)](https://git.io/typing-svg)
 ---
 
-
 ### 🤖 Sobre Mim:
 
 
