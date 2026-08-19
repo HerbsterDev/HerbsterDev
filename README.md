@@ -2,6 +2,7 @@
 <!-- Cabeçalho com Onda (Verde Suave Dracula) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
 
+
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=700&color=88cdf6&width=1000&lines=Olá,+sou+Arthur+Herbster!🏆;Desenvolvedor+de+Software!💻)](https://git.io/typing-svg)
 ---
