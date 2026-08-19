@@ -15,6 +15,7 @@
 <span style="font-family: 'Courier New', monospace">
   
 
+
 - 📊 Aprofundando conhecimentos em **Python** e manipulação de dados com **Pandas** e **NumPy**.
 - ⚛️ Entusiasta de **Física Quântica e Nuclear** fascinado por álgebra linear, mecanismos de tunelamento quântico e estimulações científicas.
 - 📈 Praticando **estatística descritiva** e **visualização de dados** para extrair insights de sistemas complexos.
