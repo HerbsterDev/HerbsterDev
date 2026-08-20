@@ -23,7 +23,6 @@
 ---
 
 
-
 ### 🛠️ Tecnologias e Ferramentas:
 ![Java](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=white)
